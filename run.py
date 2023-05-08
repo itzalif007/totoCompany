@@ -1,8 +1,4 @@
-Miss You
-
-
-
-#OWNER : NEXT STORY 444K
+l#OWNER : NEXT STORY 444K
 # NICKNAME : NS4³K
 #------------------------------------------#
 import marshal
