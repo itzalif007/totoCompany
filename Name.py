@@ -1,4 +1,4 @@
-#coding=Ahameedo
+#coding=utf
 
 #Looding... 
 import uuid
