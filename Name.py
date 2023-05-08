@@ -1,6 +1,6 @@
-#coding=utf
+#coding=Ahameed
 
-#YE LOL PE CHART TA 
+#Looding... 
 import uuid
 import os,sys,time,json,random,re,string,platform,base64
 try:
